@@ -1,0 +1,316 @@
+{
+  "sources": [
+    {
+      "id": "jeff-nippard-tier-lists",
+      "title": "Jeff Nippard Exercise Tier Lists",
+      "file": "resources/Jeff Nippard Tier Lists.pdf",
+      "pages": 7
+    }
+  ],
+  "tierLists": [
+    {
+      "id": "jeff-nippard-glutes",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "glutes",
+      "tiers": {
+        "S+": [
+          "Walking lunges"
+        ],
+        "S": [
+          "Machine hip abduction",
+          "Walking lunges",
+          "Front-foot elevated lunges",
+          "45° back extension"
+        ],
+        "A": [
+          "Hip thrust machine (glute drive)",
+          "Single-leg dumbbell hip thrust",
+          "Barbell squat",
+          "Smith machine squat",
+          "Bulgarian split squat",
+          "Cable kickbacks",
+          "Step-ups",
+          "Smith machine lunges",
+          "Romanian deadlift"
+        ],
+        "B": [
+          "Barbell hip thrust",
+          "Glute bridge",
+          "Cable hip abduction",
+          "Curtsy lunge",
+          "Conventional deadlift",
+          "Sumo deadlift",
+          "Cable pull-through"
+        ],
+        "C": [
+          "Frog pumps",
+          "Lateral banded walks"
+        ],
+        "D": [
+          "Donkey kicks",
+          "Fire hydrants",
+          "Kettlebell swings"
+        ]
+      }
+    },
+    {
+      "id": "jeff-nippard-biceps",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "biceps",
+      "tiers": {
+        "S+": [
+          "Face-away Bayesian cable curl"
+        ],
+        "S": [
+          "Preacher curl (45°)",
+          "Machine preacher curl",
+          "Face-away cable curl",
+          "Hammer preacher curl"
+        ],
+        "A": [
+          "EZ-bar curl",
+          "Dumbbell curl",
+          "Incline dumbbell curl",
+          "Lying dumbbell curl",
+          "Cable curl",
+          "Modified 21s (short -> full -> long)",
+          "Cheat curls (controlled)",
+          "Strict curls",
+          "Dumbbell hammer curl",
+          "Inverse Zottman curls"
+        ],
+        "B": [
+          "Barbell curl",
+          "Chin-ups",
+          "Flat bench curl"
+        ],
+        "C": [
+          "Scott curl (vertical preacher)",
+          "Drag curl",
+          "Spider curl",
+          "Traditional 21s"
+        ],
+        "F": [
+          "Waiter curl"
+        ]
+      }
+    },
+    {
+      "id": "jeff-nippard-shoulders",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "shoulders",
+      "tiers": {
+        "S+": [
+          "Cable lateral raise"
+        ],
+        "S": [
+          "Cable lateral raise",
+          "Cable Y-raise",
+          "Behind-the-back cuffed cable lateral raise",
+          "Reverse pec deck (sideways setup)",
+          "Reverse cable crossover"
+        ],
+        "A": [
+          "Lean-in dumbbell lateral raise",
+          "Dumbbell shoulder press",
+          "Machine shoulder press",
+          "Arnold-style side-lying dumbbell raise",
+          "Atlantis standing machine lateral raise",
+          "Rope face pull"
+        ],
+        "B": [
+          "Dumbbell lateral raise",
+          "Lean-away dumbbell lateral raise",
+          "Super ROM lateral raise",
+          "Barbell overhead press",
+          "Seated barbell overhead press",
+          "Seated machine lateral raise",
+          "Upright row",
+          "Bent-over reverse dumbbell fly"
+        ],
+        "C": [
+          "Banded lateral raise"
+        ],
+        "D": [
+          "Front raises (dumbbell / cable / machine)"
+        ]
+      }
+    },
+    {
+      "id": "jeff-nippard-quads",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "quads",
+      "tiers": {
+        "S+": [
+          "Hack squat"
+        ],
+        "S": [
+          "Barbell back squat (high bar)",
+          "Hack squat",
+          "Pendulum squat",
+          "Smith machine squat",
+          "Bulgarian split squat"
+        ],
+        "A": [
+          "Barbell front squat",
+          "Low bar squat",
+          "45° leg press",
+          "Leg extension (especially leaned back)",
+          "Reverse Nordic"
+        ],
+        "B": [
+          "Lunges",
+          "Goblet squat",
+          "Sissy squat"
+        ],
+        "C": [
+          "Horizontal leg press",
+          "Deadlift (for quads)",
+          "Step-ups",
+          "Pistol squats"
+        ],
+        "F": [
+          "Squat combo exercises (e.g. squat + press)",
+          "Bosu ball squats",
+          "Jump squats"
+        ]
+      }
+    },
+    {
+      "id": "jeff-nippard-triceps",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "triceps",
+      "tiers": {
+        "S+": [
+          "Overhead cable triceps extension"
+        ],
+        "S": [
+          "Overhead cable extension (bar)",
+          "Skull crushers (EZ-bar / barbell)"
+        ],
+        "A": [
+          "Bar pressdown",
+          "Overhead cable extension (rope)",
+          "Katana extension",
+          "One-arm dumbbell overhead extension",
+          "Dumbbell skull crushers",
+          "Smith machine JM press",
+          "Cable kickbacks",
+          "Close-grip bench press"
+        ],
+        "B": [
+          "Rope pressdown",
+          "Dumbbell French press",
+          "JM press (barbell)",
+          "Close-grip dips",
+          "Machine dips",
+          "Diamond push-ups"
+        ],
+        "C": [
+          "Reverse-grip pressdown",
+          "Dumbbell kickbacks",
+          "Bench dips",
+          "Close-grip push-ups"
+        ],
+        "F": [
+          "None (worst = dumbbell kickbacks, but still C tier)"
+        ]
+      }
+    },
+    {
+      "id": "jeff-nippard-chest",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "chest",
+      "tiers": {
+        "S+": [
+          "Machine chest press"
+        ],
+        "S": [
+          "Machine chest press",
+          "Seated cable pec fly"
+        ],
+        "A": [
+          "Barbell bench press",
+          "Incline barbell bench press",
+          "Flat dumbbell press",
+          "Incline dumbbell press",
+          "Machine/Smith bench press (flat & incline)",
+          "Dips",
+          "Deficit push-ups",
+          "Cable crossovers",
+          "Pec deck machine",
+          "Dumbbell fly (lengthened focus)",
+          "Cable press-around",
+          "Dumbbell guillotine press"
+        ],
+        "B": [
+          "Decline barbell press",
+          "Decline dumbbell press",
+          "Banded push-ups"
+        ],
+        "C": [
+          "Bodyweight push-ups",
+          "Floor press"
+        ],
+        "D": [
+          "Dumbbell pullover",
+          "Plyometric push-ups"
+        ],
+        "F": [
+          "Plate press (worst overall)",
+          "Hex press",
+          "Guillotine barbell press (safety issue)",
+          "One-arm dumbbell press",
+          "Crossbody dumbbell fly"
+        ]
+      }
+    },
+    {
+      "id": "jeff-nippard-back",
+      "sourceId": "jeff-nippard-tier-lists",
+      "muscleGroup": "back",
+      "tiers": {
+        "S+": [
+          "Chest-supported row"
+        ],
+        "S": [
+          "Wide-grip lat pulldown",
+          "Neutral-grip lat pulldown",
+          "Half-kneeling one-arm lat pulldown",
+          "Meadows row",
+          "Chest-supported row",
+          "Close-grip cable row",
+          "Wide-grip cable row"
+        ],
+        "A": [
+          "Wide-grip pull-up",
+          "Neutral-grip pull-up",
+          "Crossbody lat pulldown / pull-around",
+          "Deficit Pendlay row",
+          "One-arm dumbbell row",
+          "Kroc row",
+          "Seated or lying rope face pull",
+          "Cable lat pullover / lat prayer",
+          "Dumbbell lat pullover"
+        ],
+        "B": [
+          "Chin-ups",
+          "Barbell row",
+          "Pendlay row",
+          "Freestanding T-bar row",
+          "Standard rope face pull"
+        ],
+        "C": [
+          "Deadlift (for back hypertrophy)",
+          "Yates row",
+          "Inverted row"
+        ],
+        "F": [
+          "Renegade row",
+          "Combo row exercises (row + curl / press / kickback)",
+          "Rack pull (above knee)"
+        ]
+      }
+    }
+  ]
+}
