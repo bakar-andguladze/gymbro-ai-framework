@@ -1,0 +1,468 @@
+{
+  "source": {
+    "id": "jeff-nippard-glute-hypertrophy-program",
+    "title": "Jeff Nippard Glute Hypertrophy Program",
+    "file": "resources/Jeff Nippard - Glute Hypertrophy Program.pdf"
+  },
+  "schema": {
+    "restMinutes": "Rest time is in minutes.",
+    "percent1RM": "Only present where the source gives a %1RM prescription.",
+    "supersetGroup": "Exercises with the same value are performed as a superset."
+  },
+  "workouts": [
+    {
+      "week": 1,
+      "block": "Block 1 - Accumulation",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 3, "reps": "5", "percent1RM": "75-80%", "rpe": 8, "restMinutes": 3.0 },
+        { "name": "Romanian Deadlift", "sets": 3, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 1,
+      "block": "Block 1 - Accumulation",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Barbell Hip Thrust", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 1,
+      "block": "Block 1 - Accumulation",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 1,
+      "block": "Block 1 - Accumulation",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Walking Lunge", "sets": 3, "reps": "20", "rpe": 7, "restMinutes": 1.5 },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 2,
+      "block": "Block 1 - Accumulation",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 3, "reps": "6", "percent1RM": "75-80%", "rpe": 8, "restMinutes": 3.0 },
+        { "name": "Romanian Deadlift", "sets": 3, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 2,
+      "block": "Block 1 - Accumulation",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Barbell Hip Thrust", "sets": 3, "reps": "8-10", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 2,
+      "block": "Block 1 - Accumulation",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 2,
+      "block": "Block 1 - Accumulation",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Walking Lunge", "sets": 3, "reps": "20", "rpe": 7, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 3,
+      "block": "Block 1 - Accumulation",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 3, "reps": "6", "percent1RM": "78-83%", "rpe": 8, "restMinutes": 3.0 },
+        { "name": "Romanian Deadlift", "sets": 3, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 3,
+      "block": "Block 1 - Accumulation",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Barbell Hip Thrust", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 3,
+      "block": "Block 1 - Accumulation",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 3,
+      "block": "Block 1 - Accumulation",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Walking Lunge", "sets": 3, "reps": "20", "rpe": 7, "restMinutes": 1.5 },
+        { "name": "Glute Kickback", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 4,
+      "block": "Block 1 - Accumulation",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 4, "reps": "6", "percent1RM": "78-83%", "rpe": 8.5, "restMinutes": 3.0 },
+        { "name": "Romanian Deadlift", "sets": 4, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 4,
+      "block": "Block 1 - Accumulation",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Barbell Hip Thrust", "sets": 4, "reps": "8-10", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Seated Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 4,
+      "block": "Block 1 - Accumulation",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 4,
+      "block": "Block 1 - Accumulation",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Walking Lunge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 5,
+      "block": "Block 1 - Accumulation",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 3, "reps": "7", "percent1RM": "75-80%", "rpe": 8.5, "restMinutes": 3.0 },
+        { "name": "Romanian Deadlift", "sets": 4, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 5,
+      "block": "Block 1 - Accumulation",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Barbell Hip Thrust", "sets": 4, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 5,
+      "block": "Block 1 - Accumulation",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 5,
+      "block": "Block 1 - Accumulation",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Walking Lunge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Glute Kickback", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 6,
+      "block": "Block 1 - Accumulation",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 4, "reps": "7", "percent1RM": "75-80%", "rpe": 9, "restMinutes": 3.0 },
+        { "name": "Romanian Deadlift", "sets": 4, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 6,
+      "block": "Block 1 - Accumulation",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Barbell Hip Thrust", "sets": 4, "reps": "8-10", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
+        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Seated Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 6,
+      "block": "Block 1 - Accumulation",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 6,
+      "block": "Block 1 - Accumulation",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Walking Lunge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 7,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 2, "reps": "5", "percent1RM": "65-70%", "rpe": 6, "restMinutes": 3.0 },
+        { "name": "Lying Leg Curl", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Swiss Ball Triple Threat", "sets": 3, "reps": "15+15+15", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Elevated Glute Bridge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 7,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 2,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Banded Sumo Walk", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 3, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Dumbbell Raise Complex", "sets": 2, "reps": "15+15+15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Reverse Pec Deck", "sets": 4, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 7,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Frog Pumps", "sets": 2, "reps": "20", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 7,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Lower Back Extension (Pumper)", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Wide Grip Lat Pulldown", "sets": 3, "reps": "12-15", "rpe": 7, "restMinutes": 1.5 },
+        { "name": "1-Arm Dumbbell Row", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 7,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Romanian Deadlift", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Standing Cable Hip Abduction", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Lean Away Cable Lateral Raise", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 8,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 1,
+      "name": "Lower Body (Strength)",
+      "exercises": [
+        { "name": "Back Squat", "sets": 2, "reps": "5", "percent1RM": "65-70%", "rpe": 6, "restMinutes": 3.0 },
+        { "name": "Lying Leg Curl", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Swiss Ball Triple Threat", "sets": 3, "reps": "15+15+15", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Elevated Glute Bridge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 8,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 2,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Banded Sumo Walk", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Side Walk", "sets": 3, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.0 },
+        { "name": "Dumbbell Raise Complex", "sets": 2, "reps": "15+15+15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Reverse Pec Deck", "sets": 4, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 8,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 3,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
+        { "name": "Banded Side Walk", "sets": 2, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
+        { "name": "Frog Pumps", "sets": 2, "reps": "20", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
+        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    },
+    {
+      "week": 8,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 4,
+      "name": "Upper Body + Glute (Metabolic)",
+      "exercises": [
+        { "name": "Lower Back Extension (Pumper)", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Wide Grip Lat Pulldown", "sets": 3, "reps": "12-15", "rpe": 7, "restMinutes": 1.5 },
+        { "name": "1-Arm Dumbbell Row", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+      ]
+    },
+    {
+      "week": 8,
+      "block": "Block 2 - Metabolic Focus",
+      "day": 5,
+      "name": "Lower Body (Hypertrophy)",
+      "exercises": [
+        { "name": "Romanian Deadlift", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
+        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Standing Cable Hip Abduction", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
+        { "name": "Lean Away Cable Lateral Raise", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.0 }
+      ]
+    }
+  ]
+}
