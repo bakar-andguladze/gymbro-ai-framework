@@ -7,7 +7,8 @@
   "schema": {
     "restMinutes": "Rest time is in minutes.",
     "percent1RM": "Only present where the source gives a %1RM prescription.",
-    "supersetGroup": "Exercises with the same value are performed as a superset."
+    "supersetGroup": "Exercises with the same value are performed as a superset.",
+    "notes": "Execution comments/cues from the source workout tables."
   },
   "workouts": [
     {
@@ -16,13 +17,65 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 3, "reps": "5", "percent1RM": "75-80%", "rpe": 8, "restMinutes": 3.0 },
-        { "name": "Romanian Deadlift", "sets": 3, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 3,
+          "reps": "5",
+          "percent1RM": "75-80%",
+          "rpe": 8,
+          "restMinutes": 3.0,
+          "notes": "Drive through heels, keep knees out in direction of toes, wider stance, 15° foot flare."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 3,
+          "reps": "6-8",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Seated Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Swiss Ball Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Keep glutes elevated, thighs in a straight line with upper body, curl ball in toward your glutes."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -31,13 +84,64 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Barbell Hip Thrust", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Barbell Hip Thrust",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Use a wider stance, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Barbell Hip Thrust (Dropset)",
+          "sets": 1,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Reduce load by ~40-50%, perform another 15-20 reps with consistent form."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 2.0,
+          "supersetGroup": "A",
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Standing Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -46,8 +150,22 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        }
       ]
     },
     {
@@ -56,11 +174,50 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Walking Lunge", "sets": 3, "reps": "20", "rpe": 7, "restMinutes": 1.5 },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 7,
+          "restMinutes": 1.5,
+          "notes": "20 total strides, use dumbbells or a barbell; barbell version has less trap involvement."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Lower Back Extension",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slightly round lower back, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "40",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pump",
+          "sets": 2,
+          "reps": "30-50",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        }
       ]
     },
     {
@@ -69,13 +226,65 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 3, "reps": "6", "percent1RM": "75-80%", "rpe": 8, "restMinutes": 3.0 },
-        { "name": "Romanian Deadlift", "sets": 3, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 3,
+          "reps": "6",
+          "percent1RM": "75-80%",
+          "rpe": 8,
+          "restMinutes": 3.0,
+          "notes": "Drive through heels, keep knees out in direction of toes, wider stance, 15° foot flare."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 3,
+          "reps": "6-8",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Seated Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Swiss Ball Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Keep glutes elevated, thighs in a straight line with upper body, curl ball in toward your glutes."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -84,12 +293,56 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Barbell Hip Thrust", "sets": 3, "reps": "8-10", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Barbell Hip Thrust",
+          "sets": 3,
+          "reps": "8-10",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Heavier weight this week with no dropset."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 2.0,
+          "supersetGroup": "A",
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Seated Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -98,8 +351,22 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        }
       ]
     },
     {
@@ -108,11 +375,50 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Walking Lunge", "sets": 3, "reps": "20", "rpe": 7, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 7,
+          "restMinutes": 1.5,
+          "notes": "20 total strides, use dumbbells or a barbell; barbell version has less trap involvement."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Lower Back Extension",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slightly round lower back, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "40",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pump",
+          "sets": 2,
+          "reps": "30-50",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        }
       ]
     },
     {
@@ -121,13 +427,65 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 3, "reps": "6", "percent1RM": "78-83%", "rpe": 8, "restMinutes": 3.0 },
-        { "name": "Romanian Deadlift", "sets": 3, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 3,
+          "reps": "6",
+          "percent1RM": "78-83%",
+          "rpe": 8,
+          "restMinutes": 3.0,
+          "notes": "Drive through heels, keep knees out in direction of toes, wider stance, 15° foot flare."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 3,
+          "reps": "6-8",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Seated Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Swiss Ball Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Keep glutes elevated, thighs in a straight line with upper body, curl ball in toward your glutes."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -136,13 +494,64 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Barbell Hip Thrust", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Barbell Hip Thrust",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Use a wider stance, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Barbell Hip Thrust (Dropset)",
+          "sets": 1,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Reduce load by ~40-50%, perform another 15-20 reps with consistent form."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 2.0,
+          "supersetGroup": "A",
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Standing Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -151,8 +560,22 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        }
       ]
     },
     {
@@ -161,11 +584,50 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Walking Lunge", "sets": 3, "reps": "20", "rpe": 7, "restMinutes": 1.5 },
-        { "name": "Glute Kickback", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 7,
+          "restMinutes": 1.5,
+          "notes": "20 total strides, use dumbbells or a barbell; barbell version has less trap involvement."
+        },
+        {
+          "name": "Glute Kickback",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Lower Back Extension",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Slightly round lower back, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "40",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pump",
+          "sets": 2,
+          "reps": "30-50",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        }
       ]
     },
     {
@@ -174,13 +636,65 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 4, "reps": "6", "percent1RM": "78-83%", "rpe": 8.5, "restMinutes": 3.0 },
-        { "name": "Romanian Deadlift", "sets": 4, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 4,
+          "reps": "6",
+          "percent1RM": "78-83%",
+          "rpe": 8.5,
+          "restMinutes": 3.0,
+          "notes": "Drive through heels, keep knees out in direction of toes, wider stance, 15° foot flare."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 4,
+          "reps": "6-8",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Seated Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Swiss Ball Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Keep glutes elevated, thighs in a straight line with upper body, curl ball in toward your glutes."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -189,12 +703,56 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Barbell Hip Thrust", "sets": 4, "reps": "8-10", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Seated Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Barbell Hip Thrust",
+          "sets": 4,
+          "reps": "8-10",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Heavier weight this week with no dropset."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 2.0,
+          "supersetGroup": "A",
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Seated Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -203,8 +761,22 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        }
       ]
     },
     {
@@ -213,11 +785,50 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Walking Lunge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": "30",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "30 total strides, use dumbbells or a barbell; barbell version has less trap involvement."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 4,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Lower Back Extension",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Slightly round lower back, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "40",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pump",
+          "sets": 2,
+          "reps": "30-50",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        }
       ]
     },
     {
@@ -226,13 +837,65 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 3, "reps": "7", "percent1RM": "75-80%", "rpe": 8.5, "restMinutes": 3.0 },
-        { "name": "Romanian Deadlift", "sets": 4, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 3,
+          "reps": "7",
+          "percent1RM": "75-80%",
+          "rpe": 8.5,
+          "restMinutes": 3.0,
+          "notes": "Drive through heels, keep knees out in direction of toes, wider stance, 15° foot flare."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 4,
+          "reps": "6-8",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Seated Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Swiss Ball Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Keep glutes elevated, thighs in a straight line with upper body, curl ball in toward your glutes."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -241,13 +904,64 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Barbell Hip Thrust", "sets": 4, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Barbell Hip Thrust",
+          "sets": 4,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Use a wider stance, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Barbell Hip Thrust (Dropset)",
+          "sets": 1,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Reduce load by ~40-50%, perform another 15-20 reps with consistent form."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 2.0,
+          "supersetGroup": "A",
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Standing Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -256,8 +970,22 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        }
       ]
     },
     {
@@ -266,11 +994,50 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Walking Lunge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Glute Kickback", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": "30",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "30 total strides, use dumbbells or a barbell; barbell version has less trap involvement."
+        },
+        {
+          "name": "Glute Kickback",
+          "sets": 4,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Lower Back Extension",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Slightly round lower back, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "40",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pump",
+          "sets": 2,
+          "reps": "30-50",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        }
       ]
     },
     {
@@ -279,13 +1046,65 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 4, "reps": "7", "percent1RM": "75-80%", "rpe": 9, "restMinutes": 3.0 },
-        { "name": "Romanian Deadlift", "sets": 4, "reps": "6-8", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Seated Leg Curl", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Swiss Ball Leg Curl", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 4,
+          "reps": "7",
+          "percent1RM": "75-80%",
+          "rpe": 9,
+          "restMinutes": 3.0,
+          "notes": "Drive through heels, keep knees out in direction of toes, wider stance, 15° foot flare."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 4,
+          "reps": "6-8",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Seated Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Swiss Ball Leg Curl",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Keep glutes elevated, thighs in a straight line with upper body, curl ball in toward your glutes."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -294,13 +1113,64 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Barbell Hip Thrust", "sets": 4, "reps": "8-10", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Barbell Hip Thrust (Dropset)", "sets": 1, "reps": "15-20", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 2.0, "supersetGroup": "A" },
-        { "name": "Cable Glute Kick Back", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Seated Calf Raise", "sets": 3, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 9, "restMinutes": 1.5 }
+        {
+          "name": "Barbell Hip Thrust",
+          "sets": 4,
+          "reps": "8-10",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Heavier weight, plus a dropset."
+        },
+        {
+          "name": "Barbell Hip Thrust (Dropset)",
+          "sets": 1,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Reduce load by ~40-50%, perform another 15-20 reps with consistent form."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 2.0,
+          "supersetGroup": "A",
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Cable Glute Kick Back",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Seated Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -309,8 +1179,22 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        }
       ]
     },
     {
@@ -319,11 +1203,50 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Walking Lunge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Lower Back Extension", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "40", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Frog Pump", "sets": 2, "reps": "30-50", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": "30",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "30 total strides, use dumbbells or a barbell; barbell version has less trap involvement."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 4,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Lower Back Extension",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Slightly round lower back, 15° foot flare, squeeze glutes at the top of each rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "40",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pump",
+          "sets": 2,
+          "reps": "30-50",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        }
       ]
     },
     {
@@ -332,12 +1255,55 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 2, "reps": "5", "percent1RM": "65-70%", "rpe": 6, "restMinutes": 3.0 },
-        { "name": "Lying Leg Curl", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Swiss Ball Triple Threat", "sets": 3, "reps": "15+15+15", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Elevated Glute Bridge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 2,
+          "reps": "5",
+          "percent1RM": "65-70%",
+          "rpe": 6,
+          "restMinutes": 3.0,
+          "notes": "Light weight, practice good form and control."
+        },
+        {
+          "name": "Lying Leg Curl",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Consistent speed and range of motion across all reps - control."
+        },
+        {
+          "name": "Swiss Ball Triple Threat",
+          "sets": 3,
+          "reps": "15+15+15",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Elevated Glute Bridge",
+          "sets": 3,
+          "reps": "30",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Perform bodyweight, feet up on bench, squeeze glutes hard at the top of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -346,12 +1312,55 @@
       "day": 2,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Banded Sumo Walk", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 3, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Dumbbell Raise Complex", "sets": 2, "reps": "15+15+15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Reverse Pec Deck", "sets": 4, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Sumo Walk",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Bend at hips, wide stance, short steps moving forward, 1 step = 1 rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 3,
+          "reps": "30",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Cable Glute Kickback",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Dumbbell Raise Complex",
+          "sets": 2,
+          "reps": "15+15+15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "15 side raises, 15 front raises, 15 rear delt flyes, no rest = 1 set."
+        },
+        {
+          "name": "Reverse Pec Deck",
+          "sets": 4,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Experiment with grip and see how you feel rear delts engage the most, push handles out, do not pull back."
+        }
       ]
     },
     {
@@ -360,12 +1369,57 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Frog Pumps", "sets": 2, "reps": "20", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Banded Side Lying Clams",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, feet together, focus on activating glute medius."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "30",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pumps",
+          "sets": 2,
+          "reps": "20",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        },
+        {
+          "name": "Standing Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -374,12 +1428,54 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Lower Back Extension (Pumper)", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Wide Grip Lat Pulldown", "sets": 3, "reps": "12-15", "rpe": 7, "restMinutes": 1.5 },
-        { "name": "1-Arm Dumbbell Row", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Lower Back Extension (Pumper)",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Use only the middle 1/2 of the range of motion and keep constant tension on glutes."
+        },
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        },
+        {
+          "name": "Cable Glute Kickback",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Wide Grip Lat Pulldown",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 7,
+          "restMinutes": 1.5,
+          "notes": "Lean back 30°, use slight momentum, lighter weight."
+        },
+        {
+          "name": "1-Arm Dumbbell Row",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Pull dumbbell to back pocket, stretch on lats at the bottom."
+        }
       ]
     },
     {
@@ -388,11 +1484,48 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Romanian Deadlift", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Standing Cable Hip Abduction", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Lean Away Cable Lateral Raise", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Romanian Deadlift",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 4,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Standing Cable Hip Abduction",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hold onto upright for support, palpate glute medius to ensure activation."
+        },
+        {
+          "name": "Banded Side Lying Clams",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, feet together, focus on activating glute medius."
+        },
+        {
+          "name": "Lean Away Cable Lateral Raise",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Put cable between legs and lean away, drive out with the back of your hand, not up with your traps."
+        }
       ]
     },
     {
@@ -401,12 +1534,55 @@
       "day": 1,
       "name": "Lower Body (Strength)",
       "exercises": [
-        { "name": "Back Squat", "sets": 2, "reps": "5", "percent1RM": "65-70%", "rpe": 6, "restMinutes": 3.0 },
-        { "name": "Lying Leg Curl", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Swiss Ball Triple Threat", "sets": 3, "reps": "15+15+15", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Elevated Glute Bridge", "sets": 3, "reps": "30", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Crunch Variation (Abs)", "sets": 2, "reps": "12-15", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Back Squat",
+          "sets": 2,
+          "reps": "5",
+          "percent1RM": "65-70%",
+          "rpe": 6,
+          "restMinutes": 3.0,
+          "notes": "Light weight, practice good form and control."
+        },
+        {
+          "name": "Lying Leg Curl",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Consistent speed and range of motion across all reps - control."
+        },
+        {
+          "name": "Swiss Ball Triple Threat",
+          "sets": 3,
+          "reps": "15+15+15",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Full ROM, should feel stretch in hamstrings on eccentric."
+        },
+        {
+          "name": "Elevated Glute Bridge",
+          "sets": 3,
+          "reps": "30",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Perform bodyweight, feet up on bench, squeeze glutes hard at the top of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        },
+        {
+          "name": "Crunch Variation (Abs)",
+          "sets": 2,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Can perform using a cable, weighted, or machine - challenge yourself."
+        }
       ]
     },
     {
@@ -415,12 +1591,55 @@
       "day": 2,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Banded Sumo Walk", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Side Walk", "sets": 3, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Machine Hip Abduction (Glutes Elevated)", "sets": 3, "reps": "25-30", "rpe": 9, "restMinutes": 1.0 },
-        { "name": "Dumbbell Raise Complex", "sets": 2, "reps": "15+15+15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Reverse Pec Deck", "sets": 4, "reps": "15-20", "rpe": 9, "restMinutes": 1.0 }
+        {
+          "name": "Banded Sumo Walk",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Bend at hips, wide stance, short steps moving forward, 1 step = 1 rep."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 3,
+          "reps": "30",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Cable Glute Kickback",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Machine Hip Abduction (Glutes Elevated)",
+          "sets": 3,
+          "reps": "25-30",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Keep glutes 2-6 inches elevated off the seat, use a fast tempo and keep constant tension - no rest between reps."
+        },
+        {
+          "name": "Dumbbell Raise Complex",
+          "sets": 2,
+          "reps": "15+15+15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "15 side raises, 15 front raises, 15 rear delt flyes, no rest = 1 set."
+        },
+        {
+          "name": "Reverse Pec Deck",
+          "sets": 4,
+          "reps": "15-20",
+          "rpe": 9,
+          "restMinutes": 1.0,
+          "notes": "Experiment with grip and see how you feel rear delts engage the most, push handles out, do not pull back."
+        }
       ]
     },
     {
@@ -429,12 +1648,57 @@
       "day": 3,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Single Leg Hip Thrust", "sets": 3, "reps": "12-15", "rpe": 9, "restMinutes": 1.5 },
-        { "name": "Banded Side Walk", "sets": 2, "reps": "30", "percent1RM": "-", "rpe": 8, "restMinutes": 0.0, "supersetGroup": "A" },
-        { "name": "Frog Pumps", "sets": 2, "reps": "20", "rpe": 9, "restMinutes": 1.5, "supersetGroup": "A" },
-        { "name": "Standing Calf Raise", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Leg Raise Variation (Abs)", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Banded Side Lying Clams",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, feet together, focus on activating glute medius."
+        },
+        {
+          "name": "Single Leg Hip Thrust",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "notes": "Use preloaded barbell or hold a plate in lap, constant tension on glutes."
+        },
+        {
+          "name": "Banded Side Walk",
+          "sets": 2,
+          "reps": "30",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 0.0,
+          "supersetGroup": "A",
+          "notes": "Miniband around feet or full band around knees, slight bend at hips, short ~6 inch steps."
+        },
+        {
+          "name": "Frog Pumps",
+          "sets": 2,
+          "reps": "20",
+          "rpe": 9,
+          "restMinutes": 1.5,
+          "supersetGroup": "A",
+          "notes": "Hard glute squeeze at the top of each rep, faster tempo, challenge yourself for more reps each week."
+        },
+        {
+          "name": "Standing Calf Raise",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Feet pointed straight ahead, 1 second pause at the bottom of each rep."
+        },
+        {
+          "name": "Leg Raise Variation (Abs)",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Can perform hanging, Roman chair, or lying - challenge yourself."
+        }
       ]
     },
     {
@@ -443,12 +1707,54 @@
       "day": 4,
       "name": "Upper Body + Glute (Metabolic)",
       "exercises": [
-        { "name": "Lower Back Extension (Pumper)", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Squat Bouncer", "sets": 3, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Abduction (Seated)", "sets": 2, "reps": "20-25", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Cable Glute Kickback", "sets": 3, "reps": "15-20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Wide Grip Lat Pulldown", "sets": 3, "reps": "12-15", "rpe": 7, "restMinutes": 1.5 },
-        { "name": "1-Arm Dumbbell Row", "sets": 3, "reps": "10-12", "rpe": 8, "restMinutes": 1.5 }
+        {
+          "name": "Lower Back Extension (Pumper)",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Use only the middle 1/2 of the range of motion and keep constant tension on glutes."
+        },
+        {
+          "name": "Banded Squat Bouncer",
+          "sets": 3,
+          "reps": "20-25",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "2/3 bottom range of motion, band around knees, constant tension on glutes."
+        },
+        {
+          "name": "Banded Abduction (Seated)",
+          "sets": 2,
+          "reps": "20-25",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, focus on driving knees out, feel glute medius to ensure activation."
+        },
+        {
+          "name": "Cable Glute Kickback",
+          "sets": 3,
+          "reps": "15-20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Slight lean forward, push back then up in a slight arc, hold onto upright for support."
+        },
+        {
+          "name": "Wide Grip Lat Pulldown",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 7,
+          "restMinutes": 1.5,
+          "notes": "Lean back 30°, use slight momentum, lighter weight."
+        },
+        {
+          "name": "1-Arm Dumbbell Row",
+          "sets": 3,
+          "reps": "10-12",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Pull dumbbell to back pocket, stretch on lats at the bottom."
+        }
       ]
     },
     {
@@ -457,11 +1763,48 @@
       "day": 5,
       "name": "Lower Body (Hypertrophy)",
       "exercises": [
-        { "name": "Romanian Deadlift", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.5 },
-        { "name": "Cable Pullthrough", "sets": 4, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Standing Cable Hip Abduction", "sets": 3, "reps": "15-20", "percent1RM": "-", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Banded Side Lying Clams", "sets": 3, "reps": "20", "rpe": 8, "restMinutes": 1.0 },
-        { "name": "Lean Away Cable Lateral Raise", "sets": 3, "reps": "12-15", "rpe": 8, "restMinutes": 1.0 }
+        {
+          "name": "Romanian Deadlift",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.5,
+          "notes": "Set hips back until stretch is felt in hamstrings, thrust hips forward and squeeze glutes hard at the top."
+        },
+        {
+          "name": "Cable Pullthrough",
+          "sets": 4,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Use rope attachment, slight bend in knees, set hips back to feel big stretch in glutes, explosively thrust hips forward."
+        },
+        {
+          "name": "Standing Cable Hip Abduction",
+          "sets": 3,
+          "reps": "15-20",
+          "percent1RM": "-",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Hold onto upright for support, palpate glute medius to ensure activation."
+        },
+        {
+          "name": "Banded Side Lying Clams",
+          "sets": 3,
+          "reps": "20",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Band around knees, feet together, focus on activating glute medius."
+        },
+        {
+          "name": "Lean Away Cable Lateral Raise",
+          "sets": 3,
+          "reps": "12-15",
+          "rpe": 8,
+          "restMinutes": 1.0,
+          "notes": "Put cable between legs and lean away, drive out with the back of your hand, not up with your traps."
+        }
       ]
     }
   ]
