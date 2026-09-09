@@ -1,0 +1,252 @@
+{
+  "source": {
+    "id": "jeff-nippard-upper-lower-4x",
+    "title": "Jeff Nippard Upper/Lower 4x Size and Strength Program",
+    "file": "D:/Library/Sport & Health/Jeff Nippard/Jeff Nippard - Upper Lower 4x.pdf"
+  },
+  "substitutions": {
+    "lowerBody": {
+      "Back Squat": [
+        "Hack squat",
+        "Smith machine squat",
+        "Leg press + 15 reps of back extensions"
+      ],
+      "Barbell 45? Hyperextension": [
+        "DB 45? hyper",
+        "Reverse hyper",
+        "Glute ham raise"
+      ],
+      "Bulgarian Split Squat": [
+        "Smith machine reverse lunge",
+        "Dumbbell walking lunge"
+      ],
+      "Cable Pull-Through": [
+        "Barbell RDL",
+        "Glute kickback"
+      ],
+      "Conventional Deadlift": [
+        "Sumo deadlift"
+      ],
+      "Deficit Deadlift": [
+        "Block pull (4 inch)"
+      ],
+      "Dumbbell Step-Up": [
+        "Walking lunge",
+        "Single-leg leg press"
+      ],
+      "Dumbbell Walking Lunge": [
+        "Dumbbell step-up",
+        "Bulgarian split squat"
+      ],
+      "Eccentric Overloaded Leg Extension": [
+        "Leg extension"
+      ],
+      "Front Squat": [
+        "Goblet squat",
+        "Safety bar squat"
+      ],
+      "Good Morning": [
+        "Barbell RDL",
+        "Reverse hyper",
+        "Glute ham raise"
+      ],
+      "Hip Thrust": [
+        "Glute bridge",
+        "DB 45? hyperextension"
+      ],
+      "Knee-Banded Leg Press": [
+        "Leg press",
+        "Knee-banded bodyweight squat"
+      ],
+      "Leg Extension": [
+        "Sissy squat",
+        "Goblet squat"
+      ],
+      "Leg Press": [
+        "Goblet squat",
+        "Walking lunge"
+      ],
+      "Lying Leg Curl": [
+        "Seated leg curl",
+        "Sliding leg curl"
+      ],
+      "Machine Hip Abduction": [
+        "Lateral band walk"
+      ],
+      "Reverse Hyper": [
+        "Glute ham raise",
+        "Cable pull-through",
+        "Glute kickback"
+      ],
+      "Seated Leg Curl": [
+        "Lying leg curl",
+        "Sliding leg curl"
+      ],
+      "Sliding Leg Curl": [
+        "Lying leg curl",
+        "Seated leg curl"
+      ],
+      "Standing Calf Raise": [
+        "Seated calf raise",
+        "Leg press calf press"
+      ],
+      "Stiff Leg Deadlift": [
+        "Barbell RDL",
+        "Block pull (4 inch)"
+      ],
+      "Sumo Deadlift": [
+        "Conventional deadlift"
+      ]
+    },
+    "abs": {
+      "Cable Crunch": [
+        "Bodyweight crunch",
+        "V sit-up",
+        "Bicycle crunch"
+      ],
+      "Hanging Leg Raise": [
+        "Captain's chair crunch",
+        "Reverse crunch"
+      ],
+      "Plank": [
+        "Pallof press",
+        "Hanging leg raise hold"
+      ],
+      "Weighted Crunch": [
+        "Cable crunch",
+        "Dumbbell loaded crunch"
+      ]
+    },
+    "upperBody": {
+      "Arnold Press": [
+        "Dumbbell seated shoulder press",
+        "Machine shoulder press"
+      ],
+      "Barbell Bench Press": [
+        "Dumbbell press",
+        "Machine chest press",
+        "Smith machine bench press"
+      ],
+      "Barbell Close-Grip Bench Press": [
+        "Floor press",
+        "Dumbbell close-grip bench press"
+      ],
+      "Barbell Incline Press": [
+        "Dumbbell incline press",
+        "Machine incline press"
+      ],
+      "Barbell Overhead Press": [
+        "Seated barbell overhead press"
+      ],
+      "Barbell Push Press": [
+        "Barbell overhead press",
+        "Machine shoulder press"
+      ],
+      "Cable Close-Grip Row": [
+        "Cable wide grip row",
+        "Dumbbell row"
+      ],
+      "Cable Flye 21s": [
+        "Cable flye",
+        "Dumbbell flye",
+        "Pec deck"
+      ],
+      "Cable Triceps Kickback": [
+        "V-bar pressdown",
+        "Cable kickback"
+      ],
+      "Cable Upright Row": [
+        "Machine lateral raise",
+        "Face pull"
+      ],
+      "California Press": [
+        "JM press",
+        "Pin press",
+        "Skull crusher"
+      ],
+      "Dip": [
+        "Assisted dip",
+        "Machine dip",
+        "Close-grip bench press"
+      ],
+      "Dumbbell Row": [
+        "Cable single-arm row",
+        "Dumbbell chest-supported row"
+      ],
+      "EZ Bar Curl 21s": [
+        "EZ bar curl",
+        "Dumbbell curl 21s",
+        "Cable curl 21s"
+      ],
+      "Floor Skull Crusher": [
+        "EZ bar skull crusher",
+        "Floor press",
+        "Pin press",
+        "JM press"
+      ],
+      "Hammer Curl": [
+        "EZ bar pronated curl",
+        "Rope hammer curl"
+      ],
+      "Lat Pulldown": [
+        "Pull-up",
+        "Supinated pulldown"
+      ],
+      "Machine Chest Press": [
+        "Dumbbell press",
+        "Push-up"
+      ],
+      "Machine Chest-Supported Row w/Band": [
+        "Machine chest-supported row",
+        "Dumbbell chest-supported row"
+      ],
+      "Machine High Row": [
+        "Dumbbell chest-supported row",
+        "Cable seated row"
+      ],
+      "Machine Shoulder Press": [
+        "Seated dumbbell shoulder press"
+      ],
+      "Neutral-Grip Pull-Up": [
+        "Neutral-grip pulldown",
+        "Chin-up"
+      ],
+      "Pause Dumbbell Incline Press": [
+        "Pause barbell incline press",
+        "Deficit push-up"
+      ],
+      "Pec Deck": [
+        "Cable flye",
+        "Dumbbell flye"
+      ],
+      "Pendlay Row": [
+        "Seated cable row",
+        "Machine T-bar row"
+      ],
+      "Pull-Up": [
+        "Lat pulldown",
+        "Neutral-grip pull-up"
+      ],
+      "Push-Up": [
+        "Dumbbell floor press",
+        "Machine chest press"
+      ],
+      "Rope Overhead Triceps Extension": [
+        "V-bar pressdown",
+        "Rope triceps extension"
+      ],
+      "Seated T-Bar Row": [
+        "Chest-supported row",
+        "Cable single-arm row"
+      ],
+      "Supinated Dumbbell Curl": [
+        "Concentration curl",
+        "Preacher curl"
+      ],
+      "Supinated Lat Pulldown": [
+        "Chin-up",
+        "Pronated lat pulldown"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2892 @@
+{
+  "source": {
+    "id": "jeff-nippard-upper-lower-4x",
+    "title": "Jeff Nippard Upper/Lower 4x Size and Strength Program",
+    "file": "D:/Library/Sport & Health/Jeff Nippard/Jeff Nippard - Upper Lower 4x.pdf"
+  },
+  "schema": {
+    "weeks": "Object keyed by week number as requested.",
+    "warmupSets": "Warm-up sets listed in the table.",
+    "percent1RM": "N/A when no percentage is prescribed.",
+    "rpe": "null when source marks RPE as N/A.",
+    "rest": "Rest prescription copied as text.",
+    "supersetGroup": "Exercises with the same value are paired."
+  },
+  "weeks": {
+    "1": {
+      "wave": "Wave 1",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "4",
+              "percent1RM": "75%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Eccentric-Accentuated Stiff-Leg Deadlift",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "4-second lowering phase. Keep your hips high."
+            },
+            {
+              "name": "Dumbbell Walking Lunge",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "15 steps per leg."
+            },
+            {
+              "name": "Seated Leg Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your hamstrings."
+            },
+            {
+              "name": "Cable Pull-Through",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Eccentric-Accentuated/Constant-Tension Standing Calf Raise",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "6/6",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 7,
+              "notes": "First 6 reps 3-second lowering phase, last 6 reps do not stop between reps."
+            },
+            {
+              "name": "Cable Crunch",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Round your back as you crunch."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "70%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull your elbows down and in."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Seated T-Bar Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze shoulder blades together at the top, control the weight."
+            },
+            {
+              "name": "Pause Dumbbell Incline Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "3-second pause."
+            },
+            {
+              "name": "Myo Reps Floor Skull Crusher",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "8 reps, rest 5 seconds, 2 reps, rest 5 seconds, 2 reps."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 2,
+              "reps": "5",
+              "percent1RM": "80%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "70%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Barbell Hip Thrust",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes at the top."
+            },
+            {
+              "name": "Unilateral Eccentric-Overloaded Leg Extension",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "12 reps each leg, bilateral concentric, unilateral eccentric."
+            },
+            {
+              "name": "Constant-Tension Lying Leg Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Pendlay Row/Barbell Bent Over Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10/10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "10 reps Pendlay row, 10 reps bent over row."
+            },
+            {
+              "name": "Cable Flye 21s",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "7/7/7",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "7 reps top half of ROM, 7 reps bottom half ROM, 7 reps full ROM."
+            },
+            {
+              "name": "Face Pull",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your shoulder blades together."
+            },
+            {
+              "name": "Machine Lateral Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12/12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Dropset."
+            },
+            {
+              "name": "Supinated Dumbbell Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Supinate against the dumbbell."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "2": {
+      "wave": "Wave 1",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "5",
+              "percent1RM": "75%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Eccentric-Accentuated Stiff-Leg Deadlift",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "4-second lowering phase. Keep your hips high."
+            },
+            {
+              "name": "Dumbbell Walking Lunge",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "15 steps per leg."
+            },
+            {
+              "name": "Seated Leg Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your hamstrings."
+            },
+            {
+              "name": "Cable Pull-Through",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Eccentric-Accentuated/Constant-Tension Standing Calf Raise",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "6/6",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "First 6 reps 3-second lowering phase, last 6 reps do not stop between reps."
+            },
+            {
+              "name": "Cable Crunch",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Round your back as you crunch."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "7",
+              "percent1RM": "70%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull your elbows down and in."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Seated T-Bar Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze shoulder blades together at the top, control the weight."
+            },
+            {
+              "name": "Pause Dumbbell Incline Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "3-second pause."
+            },
+            {
+              "name": "Myo Reps Floor Skull Crusher",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "8 reps, rest 5 seconds, 2 reps, rest 5 seconds, 2 reps."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "5",
+              "percent1RM": "80%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "70%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Barbell Hip Thrust",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes at the top."
+            },
+            {
+              "name": "Unilateral Eccentric-Overloaded Leg Extension",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "12 reps each leg, bilateral concentric, unilateral eccentric."
+            },
+            {
+              "name": "Constant-Tension Lying Leg Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            },
+            {
+              "name": "Cable Crunch",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Round your back as you crunch."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Pendlay Row/Barbell Bent Over Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10/10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "10 reps Pendlay row, 10 reps bent over row."
+            },
+            {
+              "name": "Cable Flye 21s",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "7/7/7",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "7 reps top half of ROM, 7 reps bottom half ROM, 7 reps full ROM."
+            },
+            {
+              "name": "Face Pull",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your shoulder blades together."
+            },
+            {
+              "name": "Machine Lateral Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12/12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Dropset."
+            },
+            {
+              "name": "Supinated Dumbbell Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Supinate against the dumbbell."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "3": {
+      "wave": "Wave 1",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "75%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Eccentric-Accentuated Stiff-Leg Deadlift",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "4-second lowering phase. Keep your hips high."
+            },
+            {
+              "name": "Dumbbell Walking Lunge",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "15 steps per leg."
+            },
+            {
+              "name": "Seated Leg Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your hamstrings."
+            },
+            {
+              "name": "Cable Pull-Through",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Eccentric-Accentuated/Constant-Tension Standing Calf Raise",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "6/6",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "First 6 reps 3-second lowering phase, last 6 reps do not stop between reps."
+            },
+            {
+              "name": "Cable Crunch",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Round your back as you crunch."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "70%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "Pull your elbows down and in."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Seated T-Bar Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze shoulder blades together at the top, control the weight."
+            },
+            {
+              "name": "Pause Dumbbell Incline Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "3-second pause."
+            },
+            {
+              "name": "Myo Reps Floor Skull Crusher",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "8 reps, rest 5 seconds, 2 reps, rest 5 seconds, 2 reps."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "5",
+              "percent1RM": "80%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "70%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Barbell Hip Thrust",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "Squeeze your glutes at the top."
+            },
+            {
+              "name": "Unilateral Eccentric-Overloaded Leg Extension",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "12 reps each leg, bilateral concentric, unilateral eccentric."
+            },
+            {
+              "name": "Constant-Tension Lying Leg Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 10,
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 5,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Pendlay Row/Barbell Bent Over Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10/10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "10 reps Pendlay row, 10 reps bent over row."
+            },
+            {
+              "name": "Cable Flye 21s",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "7/7/7",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "7 reps top half of ROM, 7 reps bottom half ROM, 7 reps full ROM."
+            },
+            {
+              "name": "Face Pull",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your shoulder blades together."
+            },
+            {
+              "name": "Machine Lateral Raise",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "12/12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Dropset."
+            },
+            {
+              "name": "Supinated Dumbbell Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Supinate against the dumbbell."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "4": {
+      "wave": "Wave 2",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "4",
+              "percent1RM": "77.5%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Deficit Deadlift",
+              "warmupSets": 2,
+              "sets": 2,
+              "reps": "6",
+              "percent1RM": "70%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "2 inch deficit, can use 35 lb plates to create deficit."
+            },
+            {
+              "name": "Leg Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Low foot positioning."
+            },
+            {
+              "name": "Seated Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your hamstrings."
+            },
+            {
+              "name": "Cable Pull-Through",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Constant-Tension Seated Calf Raise",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Press onto your toes."
+            },
+            {
+              "name": "Hanging Leg Raise",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your spine."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "72.5%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull your elbows down and in."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Eccentric-Accentuated Cable Row",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "2-second lowering phase."
+            },
+            {
+              "name": "Machine Chest Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Focus on squeezing your chest."
+            },
+            {
+              "name": "Cable Triceps Kickback",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your triceps."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 2,
+              "reps": "5",
+              "percent1RM": "82.5%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "72.5%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Bulgarian Split Squat",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Elevate your back foot 12 inches."
+            },
+            {
+              "name": "Leg Extension",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Flex your quads."
+            },
+            {
+              "name": "Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Machine Hip Abduction",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Dumbbell Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 7,
+              "notes": "Brace onto a bench for support, pull your elbow against your side."
+            },
+            {
+              "name": "Pec Deck",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your pecs."
+            },
+            {
+              "name": "Dumbbell Reverse Flye",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Focus on squeezing your shoulder blades together."
+            },
+            {
+              "name": "Dumbbell Front Raise/Lateral Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15/15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "15 reps front raise, 15 reps lateral raise."
+            },
+            {
+              "name": "EZ Bar Curl 21s",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "7/7/7",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "7 reps bottom half of ROM, 7 reps top half of ROM, 7 reps full ROM."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "5": {
+      "wave": "Wave 2",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "5",
+              "percent1RM": "77.5%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Deficit Deadlift",
+              "warmupSets": 2,
+              "sets": 2,
+              "reps": "6",
+              "percent1RM": "70%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "2 inch deficit, can use 35 lb plates to create deficit."
+            },
+            {
+              "name": "Leg Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Low foot positioning."
+            },
+            {
+              "name": "Seated Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your hamstrings."
+            },
+            {
+              "name": "Cable Pull-Through",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Constant-Tension Seated Calf Raise",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Press onto your toes."
+            },
+            {
+              "name": "Hanging Leg Raise",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your spine."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "72.5%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull your elbows down and in."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Eccentric-Accentuated Cable Row",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "2-second lowering phase."
+            },
+            {
+              "name": "Machine Chest Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Focus on squeezing your chest."
+            },
+            {
+              "name": "Cable Triceps Kickback",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your triceps."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "5",
+              "percent1RM": "82.5%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "72.5%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Bulgarian Split Squat",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Elevate your back foot 12 inches."
+            },
+            {
+              "name": "Leg Extension",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Flex your quads."
+            },
+            {
+              "name": "Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Machine Hip Abduction",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Dumbbell Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Brace onto a bench for support, pull your elbow against your side."
+            },
+            {
+              "name": "Pec Deck",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your pecs."
+            },
+            {
+              "name": "Dumbbell Reverse Flye",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Focus on squeezing your shoulder blades together."
+            },
+            {
+              "name": "Dumbbell Front Raise/Lateral Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15/15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "15 reps front raise, 15 reps lateral raise."
+            },
+            {
+              "name": "EZ Bar Curl 21s",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "7/7/7",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "7 reps bottom half of ROM, 7 reps top half of ROM, 7 reps full ROM."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "6": {
+      "wave": "Wave 2",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "77.5%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Deficit Deadlift",
+              "warmupSets": 2,
+              "sets": 2,
+              "reps": "6",
+              "percent1RM": "70%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "2 inch deficit, can use 35 lb plates to create deficit."
+            },
+            {
+              "name": "Leg Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Low foot positioning."
+            },
+            {
+              "name": "Seated Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your hamstrings."
+            },
+            {
+              "name": "Cable Pull-Through",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "supersetGroup": "A",
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Constant-Tension Seated Calf Raise",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Press onto your toes."
+            },
+            {
+              "name": "Hanging Leg Raise",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Flex your spine."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "72.5%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull your elbows down and in."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Eccentric-Accentuated Cable Row",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "2-second lowering phase."
+            },
+            {
+              "name": "Machine Chest Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Focus on squeezing your chest."
+            },
+            {
+              "name": "Cable Triceps Kickback",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your triceps."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "5",
+              "percent1RM": "82.5%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "72.5%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Bulgarian Split Squat",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Elevate your back foot 12 inches."
+            },
+            {
+              "name": "Leg Extension",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 10,
+              "supersetGroup": "A",
+              "notes": "Flex your quads."
+            },
+            {
+              "name": "Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "supersetGroup": "A",
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Machine Hip Abduction",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Squeeze your glutes."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 5,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 9,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Dumbbell Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Brace onto a bench for support, pull your elbow against your side."
+            },
+            {
+              "name": "Pec Deck",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Squeeze your pecs."
+            },
+            {
+              "name": "Dumbbell Reverse Flye",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your shoulder blades together."
+            },
+            {
+              "name": "Dumbbell Front Raise/Lateral Raise",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "15/15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "15 reps front raise, 15 reps lateral raise."
+            },
+            {
+              "name": "EZ Bar Curl 21s",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "7/7/7",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 10,
+              "notes": "7 reps bottom half of ROM, 7 reps top half of ROM, 7 reps full ROM."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "7": {
+      "wave": "Wave 3",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "4",
+              "percent1RM": "80%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Barbell Hip Thrust",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes at the top."
+            },
+            {
+              "name": "Knee-Banded Leg Press",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Keep your knees out."
+            },
+            {
+              "name": "Sliding Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Dumbbell Walking Lunge",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "15 steps per leg."
+            },
+            {
+              "name": "Standing Calf Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Press onto your toes."
+            },
+            {
+              "name": "Plank",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30 sec",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 7,
+              "notes": "Flex your abs."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "75%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Supinated Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Underhand grip, pull your elbows against your sides."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Machine High Row",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Stretch your lats at the top."
+            },
+            {
+              "name": "Push-Up",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "AMRAP",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your pecs."
+            },
+            {
+              "name": "Eccentric-Overloaded Rope Overhead Triceps Extension",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Use your non-working arm to assist with the concentric."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 2,
+              "reps": "5",
+              "percent1RM": "85%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "75%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Dumbbell Step-Up",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "notes": "Set the box to ~parallel."
+            },
+            {
+              "name": "Reverse Hyper",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Single-Leg Leg Extension",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "12 reps each leg."
+            },
+            {
+              "name": "Cable Standing Hip Abduction",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Barbell Bent Over Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull to your upper abs."
+            },
+            {
+              "name": "Barbell Floor Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Focus on squeezing your chest."
+            },
+            {
+              "name": "Band Pull-Apart",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your shoulder blades together."
+            },
+            {
+              "name": "Arnold Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Start with your elbows in front of you and palms facing in. Rotate the dumbbells so that your palms face forward as you press."
+            },
+            {
+              "name": "Eccentric-Accentuated Hammer Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "3-second lowering phase."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "8": {
+      "wave": "Wave 3",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "5",
+              "percent1RM": "80%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Barbell Hip Thrust",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes at the top."
+            },
+            {
+              "name": "Knee-Banded Leg Press",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Keep your knees out."
+            },
+            {
+              "name": "Sliding Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Dumbbell Walking Lunge",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "15 steps per leg."
+            },
+            {
+              "name": "Standing Calf Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Press onto your toes."
+            },
+            {
+              "name": "Plank",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30 sec",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 7,
+              "notes": "Flex your abs."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "7",
+              "percent1RM": "75%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Supinated Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Underhand grip, pull your elbows against your sides."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Machine High Row",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Stretch your lats at the top."
+            },
+            {
+              "name": "Push-Up",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "AMRAP",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your pecs."
+            },
+            {
+              "name": "Eccentric-Overloaded Rope Overhead Triceps Extension",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Use your non-working arm to assist with the concentric."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "5",
+              "percent1RM": "85%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "75%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Dumbbell Step-Up",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "notes": "Set the box to ~parallel."
+            },
+            {
+              "name": "Reverse Hyper",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Single-Leg Leg Extension",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "12 reps each leg."
+            },
+            {
+              "name": "Cable Standing Hip Abduction",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Barbell Bent Over Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull to your upper abs."
+            },
+            {
+              "name": "Barbell Floor Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Focus on squeezing your chest."
+            },
+            {
+              "name": "Band Pull-Apart",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your shoulder blades together."
+            },
+            {
+              "name": "Arnold Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Start with your elbows in front of you and palms facing in. Rotate the dumbbells so that your palms face forward as you press."
+            },
+            {
+              "name": "Eccentric-Accentuated Hammer Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "3-second lowering phase."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    },
+    "9": {
+      "wave": "Wave 3",
+      "days": {
+        "day1": {
+          "type": "lower",
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "80%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Barbell Hip Thrust",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes at the top."
+            },
+            {
+              "name": "Knee-Banded Leg Press",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "20",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Keep your knees out."
+            },
+            {
+              "name": "Sliding Leg Curl",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your hamstrings."
+            },
+            {
+              "name": "Dumbbell Walking Lunge",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "15 steps per leg."
+            },
+            {
+              "name": "Standing Calf Raise",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Press onto your toes."
+            },
+            {
+              "name": "Plank",
+              "warmupSets": 0,
+              "sets": 4,
+              "reps": "30 sec",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Flex your spine."
+            }
+          ]
+        },
+        "day2": {
+          "type": "upper",
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "name": "Barbell Bench Press",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "75%",
+              "rest": "2-3 min",
+              "rpe": null,
+              "notes": "Elbows at a 45? angle. Squeeze your shoulder blades and stay firm on the bench."
+            },
+            {
+              "name": "Supinated Lat Pulldown",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Underhand grip, pull your elbows against your sides."
+            },
+            {
+              "name": "Barbell Overhead Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes to keep your torso upright."
+            },
+            {
+              "name": "Machine High Row",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Stretch your lats at the top."
+            },
+            {
+              "name": "Push-Up",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "AMRAP",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your pecs."
+            },
+            {
+              "name": "Eccentric-Overloaded Rope Overhead Triceps Extension",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Use your non-working arm to assist with the concentric."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day3": {
+          "type": "lower",
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "name": "Deadlift",
+              "warmupSets": 3,
+              "sets": 4,
+              "reps": "5",
+              "percent1RM": "85%",
+              "rest": "3-5 min",
+              "rpe": null,
+              "notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground."
+            },
+            {
+              "name": "Back Squat",
+              "warmupSets": 3,
+              "sets": 3,
+              "reps": "8",
+              "percent1RM": "75%",
+              "rest": "3-4 min",
+              "rpe": null,
+              "notes": "Sit back and down, 15? toe flare, drive your knees out laterally."
+            },
+            {
+              "name": "Dumbbell Step-Up",
+              "warmupSets": 2,
+              "sets": 3,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "0 min",
+              "rpe": 9,
+              "notes": "Set the box to ~parallel."
+            },
+            {
+              "name": "Reverse Hyper",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on squeezing your glutes."
+            },
+            {
+              "name": "Single-Leg Leg Extension",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "12",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "12 reps each leg."
+            },
+            {
+              "name": "Cable Standing Hip Abduction",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your glutes."
+            },
+            {
+              "name": "Lower Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        },
+        "day4": {
+          "type": "upper",
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "name": "Wide-Grip Pull-Up",
+              "warmupSets": 1,
+              "sets": 5,
+              "reps": "6",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Pull with your chest to the bar."
+            },
+            {
+              "name": "Barbell Incline Press",
+              "warmupSets": 2,
+              "sets": 4,
+              "reps": "8",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": "7-8",
+              "notes": "Keep your elbows out."
+            },
+            {
+              "name": "Barbell Bent Over Row",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 8,
+              "notes": "Pull to your upper abs."
+            },
+            {
+              "name": "Barbell Floor Press",
+              "warmupSets": 1,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "2-3 min",
+              "rpe": 7,
+              "notes": "Focus on squeezing your chest."
+            },
+            {
+              "name": "Band Pull-Apart",
+              "warmupSets": 0,
+              "sets": 2,
+              "reps": "30",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Squeeze your shoulder blades together."
+            },
+            {
+              "name": "Arnold Press",
+              "warmupSets": 1,
+              "sets": 4,
+              "reps": "15",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "Start with your elbows in front of you and palms facing in. Rotate the dumbbells so that your palms face forward as you press."
+            },
+            {
+              "name": "Eccentric-Accentuated Hammer Curl",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "10",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 8,
+              "notes": "3-second lowering phase."
+            },
+            {
+              "name": "Upper Body Weak Point 1",
+              "warmupSets": 0,
+              "sets": 3,
+              "reps": "15-20",
+              "percent1RM": "N/A",
+              "rest": "1-2 min",
+              "rpe": 9,
+              "notes": "Focus on mind-muscle connection."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
